@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>JSON in Frontend</title>
+</head>
+<body>
+  <h1>JSON Fetch Example</h1>
+  <pre id="output"></pre>
+
+  <script>
+    fetch('http://localhost:3000/api/data')
+      .then(res => res.json())
+      .then(data => {
+        document.getElementById('output').textContent = JSON.stringify(data, null, 2);
+//         {
+//   "name": "kunal",
+//   "role": "MERN Stack Developer",
+//   "age": 25,
+//   "stack": [
+//     "HTML",
+//     "CSS",
+//     "JavaScript",
+//     "React",
+//     "Node.js",
+//     "Express",
+//     "MongoDB"
+//   ]
+// }
+      })
+  </script>
+</body>
+</html>
