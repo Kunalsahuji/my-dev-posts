@@ -2,11 +2,14 @@
     "recommendations": [
         "esbenp.prettier-vscode",
         "dbaeumer.vscode-eslint",
-        "ritwickdey.liveserver",
         "formulahendry.auto-rename-tag",
-        "eamodio.gitlens",
+        "ritwickdey.LiveServer",
         "vscode-icons-team.vscode-icons",
-        "pkief.material-icon-theme",
-        "bierner.markdown-preview-github-styles"
+        "dsznajder.es7-react-js-snippets",
+        "wix.vscode-import-cost",
+        "mrmlnc.vscode-path-autocomplete",
+        "rangav.vscode-thunder-client",
+        "mongodb.mongodb-vscode",
+        "ms-vscode.vscode-typescript-next"
     ]
 }
