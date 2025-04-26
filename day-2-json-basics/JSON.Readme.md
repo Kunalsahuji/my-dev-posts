@@ -4,8 +4,8 @@
 👨‍💻 Author: Kunal Sahuji  
 🏷️ Tags: JSON, Web Development, MERN, JavaScript  
 🖼️ Cover Image: `images/json-cover.png`  
-📦 GitHub: [github.com/Kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts)  
-🔗 LinkedIn: [linkedin.com](https://linkedin.com)
+📦 GitHub: [github.com/Kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/blob/main/day-2-json-basics/JSON.Readme.md)  
+🔗 LinkedIn: [linkedin.com](https://www.linkedin.com/in/kunal-sahu-7688ba1b0/)
 
 ---
 
@@ -26,8 +26,10 @@ It’s readable, easy to work with, and supported across nearly every language.
   "role": "Full Stack Developer",
   "skills": ["React", "Node.js", "MongoDB"]
 }
+```
+---
 
-💡 Why Use JSON?
+# 💡 Why Use JSON?
 ✅ Easy to read and write
 
 ✅ Lightweight and efficient for APIs
@@ -36,28 +38,39 @@ It’s readable, easy to work with, and supported across nearly every language.
 
 ✅ Perfect for config files, API communication, and databases like MongoDB
 
-🔁 Convert JavaScript ↔ JSON
-👉 Convert JavaScript Object to JSON
+---
 
+# 🔁 Convert JavaScript ↔ JSON
+
+-👉 Convert JavaScript Object to JSON
+
+```javascript
 const user = { name: "Kunal", age: 22 };
 const jsonData = JSON.stringify(user);
 console.log(jsonData); // {"name":"Kunal","age":22}
-👈 Convert JSON to JavaScript Object
-js
-Copy
-Edit
+```
+# 👈 Convert JSON to JavaScript Object
+
+```javascript
 const jsonStr = '{"name": "Kunal", "age": 22}';
 const userObj = JSON.parse(jsonStr);
 console.log(userObj.name); // Kunal
-🧠 Common Use Cases
-🎨 Frontend – Fetch API data and render it
 
-⚙️ Backend – Send JSON responses using Express.js
+```
+---
 
-🛢️ Database – MongoDB stores documents in JSON-like format (BSON)
+## 🧠 Common Use Cases
 
-🌐 Frontend Example (JavaScript)
+-🎨 Frontend – Fetch API data and render it
 
+-⚙️ Backend – Send JSON responses using Express.js
+
+-🛢️ Database – MongoDB stores documents in JSON-like format (BSON)
+
+---
+
+# 🌐 Frontend Example (JavaScript)
+```javascript
 // Fetching JSON data from an API and rendering it
 fetch('http://localhost:3000/api/data')
   .then(res => res.json())
@@ -66,7 +79,11 @@ fetch('http://localhost:3000/api/data')
     document.getElementById('user').textContent = data.name;
   })
   .catch(err => console.error("Error:", err));
-🖥️ Backend Example (Express.js)
+  ```
+  ---
+
+## 🖥️ Backend Example (Express.js)
+```javascript
 
 const express = require('express');
 const cors = require('cors');
@@ -87,9 +104,12 @@ app.get('/api/data', (req, res) => {
 app.listen(PORT, () => {
   console.log(`✅ Server running on http://localhost:${PORT}`);
 });
+```
 
+---
 
-📌 Final Note
-Day 2 of my dev journal – Let’s keep learning together! 🚀
+## 📌 Final Note
 
-If you liked this post or have suggestions, drop them in the comments or share your own examples!
+**Day 2 of my dev journal – Let’s keep learning together! 🚀**
+
+***If you liked this post or have suggestions, drop them in the comments or share your own examples!***

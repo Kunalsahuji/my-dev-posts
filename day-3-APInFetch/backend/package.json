@@ -1,0 +1,13 @@
+{
+    "name": "api-fetch-backend",
+    "version": "1.0.0",
+    "description": "Backend server for Day 3 Fetch API example",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.21.2"
+    }
+}
