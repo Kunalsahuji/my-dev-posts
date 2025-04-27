@@ -3,7 +3,7 @@
 🗓️ Date: 2025-04-26  
 👨‍💻 Author: Kunal Sahuji  
 🏷️ Tags: API, Fetch, Web Development, MERN, JavaScript
-📦 GitHub: [github.com/Kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/blob/main/day-3-APInFetch.md)  
+📦 GitHub: [github.com/Kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/edit/main/day-3-APInFetch/APInFetch.md)  
 🔗 LinkedIn: [linkedin.com](https://www.linkedin.com/in/kunal-sahu-7688ba1b0/)
 ---
 
