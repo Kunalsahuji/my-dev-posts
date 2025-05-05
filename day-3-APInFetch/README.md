@@ -46,17 +46,7 @@ fetch('https://api.example.com/data')
 
 ## 📦 Folder Structure
 
-
-```pgqsql
-
-day-3-APInFetch/ 
-├── backend/ 
-│ ├── server.js 
-│ └── package.json 
-├── frontend/ 
-│ ├── index.html 
-│ └── script.js 
-└── README.md
+day-3-APInFetch/ ├── backend/ │ ├── server.js │ └── package.json ├── frontend/ │ ├── index.html │ └── script.js └── README.md
 
 ```
 ---
