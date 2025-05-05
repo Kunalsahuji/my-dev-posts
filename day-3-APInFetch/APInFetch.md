@@ -44,8 +44,18 @@ fetch('https://api.example.com/data')
 
 ## 📦 Folder Structure
 
-day-3-APInFetch/ ├── backend/ │ ├── server.js │ └── package.json ├── frontend/ │ ├── index.html │ └── script.js └── README.md
+```pgsql
 
+day-3-APInFetch/ 
+├── backend/ 
+│ ├── server.js 
+│ └── package.json 
+├── frontend/ 
+│ ├── index.html 
+│ └── script.js 
+└── README.md
+
+```
 ---
 
 ## 🔥 How It Works
