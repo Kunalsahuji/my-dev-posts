@@ -3,8 +3,10 @@
 🗓️ Date: 2025-04-26  
 👨‍💻 Author: Kunal Sahuji  
 🏷️ Tags: API, Fetch, Web Development, MERN, JavaScript
-📦 GitHub: [github.com/Kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/edit/main/day-3-APInFetch/APInFetch.md)  
+📦 GitHub: [github.com/Kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/edit/main/day-3-APInFetch/README.md)  
 🔗 LinkedIn: [linkedin.com](https://www.linkedin.com/in/kunal-sahu-7688ba1b0/)
+📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
+
 ---
 
 ## 🚀 Introduction
@@ -44,9 +46,21 @@ fetch('https://api.example.com/data')
 
 ## 📦 Folder Structure
 
-day-3-APInFetch/ ├── backend/ │ ├── server.js │ └── package.json ├── frontend/ │ ├── index.html │ └── script.js └── README.md
 
+```pgqsql
+
+day-3-APInFetch/ 
+├── backend/ 
+│ ├── server.js 
+│ └── package.json 
+├── frontend/ 
+│ ├── index.html 
+│ └── script.js 
+└── README.md
+
+```
 ---
+
 
 ## 🔥 How It Works
 
@@ -77,6 +91,7 @@ day-3-APInFetch/ ├── backend/ │ ├── server.js │ └── packag
 </html>
 ```
 
+---
 ## 📄 frontend/script.js
 
 ```javascript
@@ -143,9 +158,22 @@ npm start
 ```
 ---
 
- Open the frontend/index.html in your browser.
+	Open the frontend/index.html in your browser.
 
- Click the "Get Message" button to fetch data from the backend!
+	 Click the "Get Message" button to fetch data from the backend!
 
 
+---
 
+## 🔗 Connect with Me
+
+- 📂 **GitHub Repo**: [View Code on GitHub](https://github.com/Kunalsahuji/my-dev-posts/)
+    
+- 🔗 **LinkedIn**: [Connect with me](https://linkedin.com/in/kunal-sahu-7688ba1b0/)
+    
+- 🔗 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
+---
+
+🚀 Keep following my journey as I learn and share every day!
+
+#100DaysOfMERN #MERN #NodeJS #ReactJS #WebDevelopment #Dotenv  #APIs #FETCH #RESTFULL_APIs

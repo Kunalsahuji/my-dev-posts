@@ -4,8 +4,9 @@
 👨‍💻 Author: Kunal Sahuji  
 🏷️ Tags: JSON, Web Development, MERN, JavaScript  
 🖼️ Cover Image: `images/json-cover.png`  
-📦 GitHub: [github.com/Kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/blob/main/day-2-json-basics/JSON.Readme.md)  
+📦 GitHub: [github.com/Kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/blob/main/day-2-json-basics/README.md)  
 🔗 LinkedIn: [linkedin.com](https://www.linkedin.com/in/kunal-sahu-7688ba1b0/)
+📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
 
 ---
 
@@ -112,4 +113,20 @@ app.listen(PORT, () => {
 
 **Day 2 of my dev journal – Let’s keep learning together! 🚀**
 
-***If you liked this post or have suggestions, drop them in the comments or share your own examples!***
+If you liked this post or have suggestions, drop them in the comments or share your own examples!
+
+
+---
+
+## 🔗 Connect with Me
+
+- 📂 **GitHub Repo**: [View Code on GitHub](https://github.com/Kunalsahuji/my-dev-posts/)
+    
+- 🔗 **LinkedIn**: [Connect with me](https://linkedin.com/in/kunal-sahu-7688ba1b0/)
+    
+- 🔗 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
+---
+
+🚀 Keep following my journey as I learn and share every day!
+
+#100DaysOfMERN #MERN #NodeJS #ReactJS #WebDevelopment #Dotenv #JSON #JSON_Methods #jsonstringigy #jsonparse 

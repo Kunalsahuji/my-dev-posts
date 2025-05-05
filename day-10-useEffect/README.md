@@ -3,7 +3,7 @@
 🗓️ Date: 2025-05-03  
 👨‍💻 Author: Kunal Sahuji  
 🏷️ Tags: React, MERN, useEffect, API Calls, Side Effects, Hooks  
-📦 GitHub: [my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-10-useEffect)  
+📦 GitHub: [my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-10-useEffect/README.md)  
 🔗 LinkedIn: [linkedin.com/in/kunal-sahu-7688ba1b0](https://www.linkedin.com/in/kunal-sahu-7688ba1b0)  
 📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
 
@@ -139,6 +139,8 @@ Ensure backend API is running at `http://localhost:5000/api/books`
 
 👉 GitHub: [kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts)  
 📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)  
+🔗 LinkedIn: [linkedin.com/in/kunal-sahu-7688ba1b0](https://www.linkedin.com/in/kunal-sahu-7688ba1b0)
+
 🎯 Keep Reacting with Hooks — it’s functional magic in MERN!
 
 Part of my #100DaysOfMERN journey.  

@@ -3,7 +3,7 @@
 🗓️ Date: 2025-05-02  
 👨‍💻 Author: Kunal Sahuji  
 🏷️ Tags: MongoDB, CRUD, Mongoose, Express, Backend, MERN  
-📦 GitHub: [my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-8-http-status-code)  
+📦 GitHub: [my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-8-http-status-code/README.md)  
 🔗 LinkedIn: [linkedin.com/in/kunal-sahu-7688ba1b0](https://www.linkedin.com/in/kunal-sahu-7688ba1b0)
 📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
 
@@ -192,7 +192,10 @@ npm start
 ---
 ### 🔗 Learn more in my GitHub post with full explanation and file structure:
 
-👉 GitHub: [kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts)
+- 📌 GitHub: [Kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts)  
+- 📌 LinkedIn: [Kunal Sahuji](https://www.linkedin.com/in/kunal-sahu-7688ba1b0/)
+- 📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
+
 
 🎯 Let’s keep decoding the web — one response code at a time!
 Part of my #100DaysOfMERN journey.  

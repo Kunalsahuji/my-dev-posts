@@ -3,7 +3,7 @@
 🗓️ Date: 2025-04-30  
 👨‍💻 Author: Kunal Sahuji  
 🏷️ Tags: MongoDB, CRUD, Mongoose, Express, Backend, MERN  
-📦 GitHub: [my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-7-mongodb-crud)  
+📦 GitHub: [my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-7-MongoDB-CRUD/README.md)  
 🔗 LinkedIn: [linkedin.com/in/kunal-sahu-7688ba1b0](https://www.linkedin.com/in/kunal-sahu-7688ba1b0)
 📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
 
@@ -214,8 +214,10 @@ MongoDB with Mongoose simplifies building dynamic, data-driven applications. In 
 
 Let’s connect and keep building!
 
-🔗 [My LinkedIn](https://www.linkedin.com/in/kunal-sahu-7688ba1b0)  
-🔗 [My GitHub Repo](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-7-mongodb-crud)
+- 📌 GitHub: [Kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts)  
+- 📌 LinkedIn: [Kunal Sahuji](https://www.linkedin.com/in/kunal-sahu-7688ba1b0/)
+- 📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
+ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
 
 ---
 

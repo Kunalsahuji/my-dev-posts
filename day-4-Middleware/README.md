@@ -5,7 +5,7 @@
 🏷️ Tags: ExpressJS, NodeJS, Middleware, MERN, Backend  
 📦 GitHub: [github.com/Kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-4-Middleware)  
 🔗 LinkedIn: [linkedin.com](https://www.linkedin.com/in/kunal-sahu-7688ba1b0/)
-
+📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
 ## 🚀 Introduction
 
 In today's #100DaysOfMERN journey, I explored one of the most critical parts of backend development — **Middleware in Express.js**. 🚀  
@@ -212,9 +212,11 @@ Open the frontend/index.html (optional) or test routes via Postman/browser to se
 
 ## 🔗 Connect with Me
 
-- 📂 GitHub Repository: [View Code on GitHub](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-4-Middleware)
+- 📂 GitHub Repository: [View Code on GitHub](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-4-Middleware/README.md)
     
 - 🔗 LinkedIn Profile: [Connect with me on LinkedIn](https://www.linkedin.com/in/kunal-sahu-7688ba1b0/)
+
+- 📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
     
 
 ---

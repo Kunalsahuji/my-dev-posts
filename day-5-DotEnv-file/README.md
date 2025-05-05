@@ -3,9 +3,9 @@
 🗓️ Date: 2025-04-27  
 👨‍💻 Author: Kunal Sahuji  
 🏷️ Tags: Environment Variables, dotenv, MERN, NodeJS, ReactJS  
-📦 GitHub: [github.com/Kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-5-DotEnv-file)  
+📦 GitHub: [github.com/Kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-5-DotEnv-file/README.md)  
 🔗 LinkedIn: [linkedin.com/in/kunal-sahu-7688ba1b0](https://linkedin.com/in/kunal-sahu-7688ba1b0)
-
+📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
 ---
 
 ## 🚀 Introduction
@@ -255,6 +255,7 @@ function App() {
     
 - 🔗 **LinkedIn**: [Connect with me](https://linkedin.com/in/kunal-sahu-7688ba1b0/)
     
+- 📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
 
 🚀 Keep following my journey as I learn and share every day!
 

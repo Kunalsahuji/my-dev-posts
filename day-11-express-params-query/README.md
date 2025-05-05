@@ -4,7 +4,7 @@
 🗓️ Date: 2025-05-04  
 👨‍💻 Author: Kunal Sahuji  
 🏷️ Tags: Express.js, MERN, req.params, req.query, Backend API, Routing  
-📦 GitHub: [my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-11-express-params-query)  
+📦 GitHub: [my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-11-express-params-query/README.md)  
 🔗 LinkedIn: [linkedin.com/in/kunal-sahu-7688ba1b0](https://www.linkedin.com/in/kunal-sahu-7688ba1b0)  
 📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
 
@@ -135,7 +135,7 @@ Ensure MongoDB is running and `.env` is configured with `MONGO_URI`.
 
 👉 GitHub: [kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-11-express-params-query)  
 📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
-
+🔗 LinkedIn: [linkedin.com/in/kunal-sahu-7688ba1b0](https://www.linkedin.com/in/kunal-sahu-7688ba1b0)
 ---
 
 🎯 Understanding `req.params` and `req.query` makes you 10x better at API design.

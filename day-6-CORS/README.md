@@ -3,9 +3,9 @@
 🗓️ Date: 2025-04-29  
 👨‍💻 Author: Kunal Sahuji  
 🏷️ Tags: CORS, Web Security, MERN, Express.js, React.js  
-📦 GitHub: [Kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-6-CORS)  
+📦 GitHub: [Kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-6-CORS/README.md)  
 🔗 LinkedIn: [linkedin.com/in/kunal-sahu-7688ba1b0](https://www.linkedin.com/in/kunal-sahu-7688ba1b0/)
-
+📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
 ---
 
 ## 🚀 Introduction
@@ -155,8 +155,9 @@ function callAPI() {
 
 ## 🔗 Connect with Me
 
-📌 GitHub: [Kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts)  
-📌 LinkedIn: [Kunal Sahuji](https://www.linkedin.com/in/kunal-sahu-7688ba1b0/)
+- 📌 GitHub: [Kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts)  
+- 📌 LinkedIn: [Kunal Sahuji](https://www.linkedin.com/in/kunal-sahu-7688ba1b0/)
+- 📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
 
 ---
 

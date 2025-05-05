@@ -4,7 +4,7 @@
 - 👨‍💻 Author: Kunal Sahuji  
 🏷️ Tags: MERN, MERNStack, WebDevelopment, FullStackDeveloper, NodeJS, Express, ReactJS, MongoDB, Axios, RESTAPI, API, BackendDevelopment, FrontendDevelopment, APIDevelopment, SoftwareEngineering, ProblemSolving, GitHubProjects, CleanCode, JavaScript, TypeScript, OpenToWork, JobSeeker, LinkedInDev
 
-- 📦 GitHub: [my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-9-axios-http-client)  
+- 📦 GitHub: [my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts/tree/main/day-9-axios-http-client/README.md)  
 - 🔗 LinkedIn: [linkedin.com/in/kunal-sahu-7688ba1b0](https://www.linkedin.com/in/kunal-sahu-7688ba1b0)
 - 📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
 
@@ -302,3 +302,15 @@ module.exports = router;
 
 ```
 ---
+
+### 🔗 Learn more in my GitHub post with full explanation and file structure:
+
+👉 GitHub: [kunalsahuji/my-dev-posts](https://github.com/Kunalsahuji/my-dev-posts)
+📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
+🔗 LinkedIn: [linkedin.com/in/kunal-sahu-7688ba1b0](https://www.linkedin.com/in/kunal-sahu-7688ba1b0)
+
+🎯 Let’s keep decoding the web — one response code at a time!
+Part of my #100DaysOfMERN journey.  
+Building in public, learning every day. 🚀
+
+#100DaysOfMERN #MERN #MERNStack #WebDevelopment #NodeJS #Express #ExpressJS #ReactJS #MongoDB #RESTAPI #HTTPStatus #API #BackendDevelopment #FullStackDeveloper #APIDevelopment #SoftwareEngineering #ProblemSolving #GitHubProjects #LinkedInDev #OpenToWork #JobSeeker
