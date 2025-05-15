@@ -7,4 +7,4 @@ const dbConnnection = mongoose.connect(process.env.MONGO_URI)
         console.error(err);
     });
 
-module.exports = dbConnnection
+module.exports = dbConnnection 
